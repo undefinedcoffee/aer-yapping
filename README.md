@@ -1,2 +1,2 @@
-# aer-yapping
+# yapping
 just yapping
