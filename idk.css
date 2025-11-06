@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://media.tenor.com/d27gEByLFVUAAAAM/lixovsk-hoshimi-miyabi.gif;");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.contain-me {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 0 0 5px #ff00d0;
+}
+
+h1:hover {
+    font-size: 250px;
+}
